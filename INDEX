@@ -2,7 +2,7 @@
     "asigra": {
         "MANIFEST": "asigra.json",
         "name": "Asigra Backup",
-        "icon": "https://www.trueos.org/iocage-icons/asigra.png",
+        "icon": "https://media.sys.truenas.net/core/icons/asigra.png",
         "description": "Allows administrators to back up data from network-connected computers and mobile devices. Leverages standard API calls from a single on-site Asigra service (DS-Client) to reach into these devices and access the data.",
         "official": true,
         "primary_pkg": "dssystem",
@@ -13,7 +13,7 @@
     "minio": {
         "MANIFEST": "minio.json",
         "name": "Minio",
-        "icon": "https://www.trueos.org/iocage-icons/minio.png",
+        "icon": "https://media.sys.truenas.net/core/icons/minio.png",
         "description": "High-performance object (S3) storage suite.",
         "official": true,
         "primary_pkg": "minio",
@@ -24,7 +24,7 @@
     "nextcloud": {
         "MANIFEST": "nextcloud.json",
         "name": "Nextcloud",
-        "icon": "https://www.trueos.org/iocage-icons/nextcloud.png",
+        "icon": "https://media.sys.truenas.net/core/icons/nextcloud.png",
         "description": "Suite of client-server software for creating and using file hosting services.",
         "official": true,
         "primary_pkg": "nextcloud-php74",
@@ -35,7 +35,7 @@
     "plexmediaserver": {
         "MANIFEST": "plexmediaserver.json",
         "name": "Plex Media Server",
-        "icon": "https://www.trueos.org/iocage-icons/plex.png",
+        "icon": "https://media.sys.truenas.net/core/icons/plex.png",
         "description": "Media center software to easily manage and stream digital media.",
         "official": true,
         "primary_pkg": "plexmediaserver",
@@ -46,7 +46,7 @@
     "plexmediaserver-plexpass": {
         "MANIFEST": "plexmediaserver-plexpass.json",
         "name": "Plex Media Server (Beta)",
-        "icon": "https://www.trueos.org/iocage-icons/plex.png",
+        "icon": "https://media.sys.truenas.net/core/icons/plex.png",
         "description": "Media center software to easily manage and stream digital media. (Requires Plex Pass Subscription)",
         "official": true,
         "primary_pkg": "plexmediaserver-plexpass",
@@ -57,7 +57,7 @@
     "syncthing": {
         "MANIFEST": "syncthing.json",
         "name": "Syncthing",
-        "icon": "https://www.trueos.org/iocage-icons/syncthing.png",
+        "icon": "https://media.sys.truenas.net/core/icons/syncthing.png",
         "description": "Open source, peer-to-peer file synchronization application available for many operating systems.",
         "official": true,
         "primary_pkg": "syncthing",
@@ -68,7 +68,7 @@
     "tarsnap": {
         "MANIFEST": "tarsnap.json",
         "name": "Tarsnap",
-        "icon": "https://www.trueos.org/iocage-icons/tarsnap.png",
+        "icon": "https://media.sys.truenas.net/core/icons/tarsnap.png",
         "description": "Secure online backup service for UNIX-like operating systems.",
         "official": true,
         "primary_pkg": "tarsnap",
@@ -81,7 +81,7 @@
         "name": "Iconik",
         "description": "Streamlines media asset management by making local and cloud-based assets discoverable from a single interface.",
         "official": true,
-        "icon": "https://raw.githubusercontent.com/freenas/iocage-ix-plugins/master/icons/iconik.png",
+        "icon": "https://media.sys.truenas.net/core/icons/iconik.png",
         "primary_pkg": "iconik_storage_gateway",
         "category": "collaboration",
         "maintainer": "iXsystems <dev@ixsystems.com>",
